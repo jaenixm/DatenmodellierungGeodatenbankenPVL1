@@ -1,4 +1,4 @@
-<pre><code>```mermaid
+```mermaid
 classDiagram
     class Point {
         - float x
@@ -14,4 +14,4 @@ classDiagram
     }
 
     GeographicPoint --|> Point
-```</code></pre>
+```
