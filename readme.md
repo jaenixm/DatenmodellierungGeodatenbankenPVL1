@@ -13,5 +13,5 @@ classDiagram
         + harvesine(other: GeographicPoint) float
     }
 
-    GeographicPoint --|> Point
+    Point <|-- GeographicPoint
 ```
